@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalTrackAI</string>
+    <string name="app_tagline">Your Intelligent Nutrition Coach</string>
+    
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_stats">Stats</string>
+    <string name="nav_profile">Profile</string>
+    
+    <!-- Onboarding -->
+    <string name="welcome_title">Welcome to CalTrackAI</string>
+    <string name="welcome_subtitle">The most advanced AI-powered nutrition tracking app</string>
+    <string name="get_started">Get Started</string>
+    <string name="goal_question">What\'s your health journey?</string>
+    <string name="lose_weight">Lose Weight</string>
+    <string name="gain_weight">Gain Weight</string>
+    <string name="maintain_weight">Maintain Weight</string>
+    
+    <!-- Dashboard -->
+    <string name="daily_calories">Daily Calories</string>
+    <string name="calories_remaining">Calories Remaining</string>
+    <string name="protein">Protein</string>
+    <string name="carbs">Carbs</string>
+    <string name="fat">Fat</string>
+    <string name="recent_meals">Recent Meals</string>
+    <string name="ai_insights">AI Insights</string>
+    
+    <!-- Camera -->
+    <string name="scan_food">Scan Food</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="analyzing">Analyzing food...</string>
+    <string name="food_detected">Food detected with %d%% confidence</string>
+    <string name="add_to_log">Add to Food Log</string>
+    
+    <!-- Voice -->
+    <string name="voice_logging">Voice Logging</string>
+    <string name="speak_now">Speak now...</string>
+    <string name="voice_processing">Processing your voice...</string>
+    <string name="say_what_you_ate">Say what you ate</string>
+    
+    <!-- Subscription -->
+    <string name="premium_features">Premium Features</string>
+    <string name="subscribe_now">Subscribe Now</string>
+    <string name="free_trial">7-Day Free Trial</string>
+    <string name="monthly_price">$4.99/month</string>
+    <string name="yearly_price">$49.99/year (Save 17%)</string>
+    
+    <!-- Features -->
+    <string name="ai_accuracy">99.5% AI Accuracy</string>
+    <string name="multi_language">20+ Languages</string>
+    <string name="smart_coaching">Smart AI Coaching</string>
+    <string name="real_time_tracking">Real-time Tracking</string>
+    
+    <!-- Errors -->
+    <string name="error_camera">Camera error occurred</string>
+    <string name="error_network">Network connection required</string>
+    <string name="error_permission">Permission required</string>
+    <string name="error_subscription">Subscription required for this feature</string>
+    
+    <!-- Success -->
+    <string name="food_added">Food added to your log</string>
+    <string name="goal_updated">Goal updated successfully</string>
+    <string name="profile_saved">Profile saved</string>
+    
+    <!-- Menu -->
+    <string name="action_voice">Voice</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    
+    <!-- Competitive Advantages -->
+    <string name="why_caltrackai">Why CalTrackAI?</string>
+    <string name="advantage_accuracy">50% more accurate than competitors</string>
+    <string name="advantage_price">50% lower cost than competitors</string>
+    <string name="advantage_ai">Revolutionary multi-AI system</string>
+    <string name="advantage_languages">20+ language voice support</string>
+    <string name="advantage_coaching">Context-aware AI coaching</string>
+    
+    <!-- Competitor Comparison -->
+    <string name="vs_competitors">vs Other Apps</string>
+    <string name="calpal_price">CalPal: $9.99/mo</string>
+    <string name="calcam_price">CalCam: $8.99/mo</string>
+    <string name="fitia_price">Fitia: $12.99/mo</string>
+    <string name="caltrackai_price">CalTrackAI: $4.99/mo</string>
+    <string name="best_value">Best Value!</string>
+</resources>
+
